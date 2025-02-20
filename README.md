@@ -10,7 +10,14 @@ A simple and interactive **Rock-Paper-Scissors** game built using **HTML, CSS, a
 - 🎺 Win, and lose Sound.
 
 ## 📷 Preview  
-![Game Preview](screenshot.png) *(Add a screenshot of your game here)*  
+#### 🎮 Start Screen  
+![Game Preview](SPS/assets/screen1.png)
+
+#### 🕹️ Gameplay  
+![Game Preview](SPS/assets/screen2.png)
+
+#### Dark Theme
+![Game Preview](SPS/assets/screen3.png)
 
 ## 🛠️ Technologies Used  
 - **HTML** – Structure  
