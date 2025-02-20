@@ -6,7 +6,8 @@ A simple and interactive **Rock-Paper-Scissors** game built using **HTML, CSS, a
 - 🎨 Clean and responsive UI  
 - 🤖 Random Computer generated moves  
 - 🏆 Score tracking for both player and computer  
-- ⚡ Manage Theme of game.  
+- ⚡ Manage Theme of game.
+- 🎺 Win, and lose Sound.
 
 ## 📷 Preview  
 ![Game Preview](screenshot.png) *(Add a screenshot of your game here)*  
